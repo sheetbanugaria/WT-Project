@@ -1,0 +1,4 @@
+How do start my project.
+STEP 1) Go to Server folder and type "npm start" in terminal to start the server.
+STEP 2) Open a new terminal, type cd Recipeapp(or simply go to Recipeapp folder) and type "npm run dev" to launch the Vite+React app.
+STEP 3) CTRL+Click on the link which will appear in terminal.
